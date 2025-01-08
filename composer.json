@@ -4,6 +4,9 @@
     },
     "require": {
         "symfony/http-foundation": "^7.2",
-        "doctrine/orm": "^3.3"
+        "doctrine/orm": "^3.3",
+        "symfony/security-bundle": "^7.2",
+        "symfony/form": "^7.2",
+        "symfony/validator": "^7.2"
     }
 }
